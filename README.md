@@ -14,6 +14,7 @@ This project showcases a short 3D animation sequence created using **Mixamo** fo
 
 ## 📂 Folder Structure
 > /blender-files - .blend working files
+
 > /final-video - Exported rendered animation
 
 ## 📽️ Preview

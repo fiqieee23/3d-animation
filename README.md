@@ -18,7 +18,8 @@ This project showcases a short 3D animation sequence created using **Mixamo** fo
 > /final-video - Exported rendered animation
 
 ## 📽️ Preview
-![Preview](Screenshot 2025-06-19 011243.png) <!-- Replace with an actual GIF or image -->
+![Screenshot 2025-06-19 011243](https://github.com/user-attachments/assets/9634dbd2-4363-4d2d-afcf-8bce52897ded)
+
 
 ## 📬 Contact
 For any questions or collaborations, reach out at: afiqh995@gmail.com

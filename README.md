@@ -13,13 +13,14 @@ This project showcases a short 3D animation sequence created using **Mixamo** fo
 - Final video render with transitions
 
 ## 📂 Folder Structure
-> /blender-files - .blend working files
+> `/blender-files` – Contains .blend working files  
+> `/final-video` – Exported rendered animation
 
-> /final-video - Exported rendered animation
+👉 All project files including the Blender file and final rendered video are available in this shared Google Drive folder:  
+**[📁 View on Google Drive](https://drive.google.com/your-shared-link](https://drive.google.com/drive/folders/1W9-kHIKn9ucFiFSr2oAEmYXieSISuQB_?usp=drive_link)**
 
-## 📽️ Preview
+## 📽️ Preview  
 ![Screenshot 2025-06-19 011243](https://github.com/user-attachments/assets/9634dbd2-4363-4d2d-afcf-8bce52897ded)
 
-
-## 📬 Contact
-For any questions or collaborations, reach out at: afiqh995@gmail.com
+## 📬 Contact  
+For any questions or collaborations, reach out at: **afiqh995@gmail.com**

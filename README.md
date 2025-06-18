@@ -13,8 +13,8 @@ This project showcases a short 3D animation sequence created using **Mixamo** fo
 - Final video render with transitions
 
 ## 📂 Folder Structure
-/blender-files - .blend working files
-/final-video - Exported rendered animation
+> /blender-files - .blend working files
+> /final-video - Exported rendered animation
 
 ## 📽️ Preview
 ![Preview](preview.gif) <!-- Replace with an actual GIF or image -->
